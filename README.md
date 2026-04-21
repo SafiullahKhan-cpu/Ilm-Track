@@ -1758,8 +1758,8 @@ const firebaseConfig = {
   projectId: "medtrackdb",
   storageBucket: "medtrackdb.firebasestorage.app",
   messagingSenderId: "745482457766",
-  appId: "1:745482457766:web:4aef20c89fe4a323d21a67",
-  measurementId: "G-1CSSN4PT46"
+  appId: "1:745482457766:web:f9677d05be7c8a89d21a67",
+  measurementId: "G-CQN6M7C8VK"
 };
 
 const fallbackAppId = "deentrack_v1";
